@@ -5,3 +5,12 @@ npm i  @fontsource/roboto @emotion/styled @emotion/react @mui/lab @mui/icons-mat
 BackEnd packages 
 npm init -y 
 npm i axios cookie-parser cors dotenv express crypto express-validator jsonwebtoken mongoose nodemon
+
+
+
+MONGODB_URL="mongodb://127.0.0.1:27017/JasoomMovie"
+PORT=4000
+TOKEN_SECRET_KEY=Gogi
+TMDB_BASE_URL=https://api.themoviedb.org/3/
+TMDB_KEY=85ee3a9083112f300c90a61dd26cac0
+
