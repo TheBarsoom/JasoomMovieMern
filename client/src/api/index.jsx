@@ -1,0 +1,9 @@
+export {default as privateClient} from "./client/private.client";
+export {default as publicClient} from "./client/public.client";
+export {default as tmdbConfigs} from "./configs/tmdb.config";
+export {default as favoriteApi} from "./modules/favorite.api";
+export {default as genreApi} from "./modules/genre.api";
+export {default as mediaApi} from "./modules/media.api";
+export {default as personApi} from "./modules/person.api";
+export {default as userApi} from "./modules/user.api";
+export {default as reviewApi} from "./modules/review.api";
